@@ -2,6 +2,7 @@
 
 ## TODO
 
+* fix mobile - prob nav bar size is problem
 * decrease image sizes for faster loads
 * copy check
 * add addition sections to 101 for hand tools, exposed frame
