@@ -1,5 +1,13 @@
 # [Brooklyn Timberwors](https://brooklyntimberworks.com/)
 
+## TODO
+
+* decrease image sizes for faster loads
+* copy check
+* add addition sections to 101 for hand tools, exposed frame
+* add summary text visible without clicking in 101 section
+* check form validation
+
 ## Credits
 
 Page build with Start Bootstrap theme
