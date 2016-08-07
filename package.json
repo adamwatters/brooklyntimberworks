@@ -4,6 +4,7 @@
   "version": "1.1.1",
   "homepage": "brooklyntimberworks.com",
   "author": "Adam Watters",
+  "license":"none",
   "devDependencies": {
     "bootstrap": "^3.3.7",
     "browser-sync": "^2.13.0",
