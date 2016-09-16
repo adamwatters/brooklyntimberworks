@@ -6,6 +6,20 @@
 .mc-modal {
   margin-top: 100px;
 }
+a.link-dark {
+  color: #2C3E50;
+}
+a.link-dark:hover {
+  color: #080b0e;
+}
+.event_image {
+  margin: auto;
+  margin-top: 16px;
+  max-height: 400px;
+}
+.event_description {
+  padding-top: 16px;
+}
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
