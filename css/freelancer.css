@@ -1,8 +1,11 @@
 /*!
- * Start Bootstrap - Brooklyn Timberworks v1.1.1 (brooklyntimberworks.com)
+ * Start Bootstrap - brooklyn timberworks v1.1.1 (brooklyntimberworks.com)
  * Copyright 2013-2016 Adam Watters
  * Licensed under  ()
  */
+.mc-modal {
+  margin-top: 100px;
+}
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
